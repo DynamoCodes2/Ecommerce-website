@@ -1,4 +1,3 @@
-# Ecommerce-website
 # **E-Commerce Website Template**  
 **For Educational Use Only**  
 
